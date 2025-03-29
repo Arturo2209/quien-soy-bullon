@@ -1,25 +1,34 @@
-Parte 1: Carta a mí mismo
-
+✨ Carta a mí mismo ✨
 Querido Arturo,
 
-Hoy te escribo para recordarte tus sueños y compromisos. En tu vida personal, deseas encontrar un equilibrio entre el crecimiento personal y el bienestar de quienes te rodean. En el ámbito profesional, aspiras a liderar proyectos tecnológicos innovadores y generar un impacto positivo a través de soluciones efectivas.
+Hoy te escribo para recordarte quién eres y hacia dónde quieres ir.
 
-Sin embargo, sé que algunas creencias te han limitado. A veces dudas de tu capacidad para enfrentar nuevos desafíos, temes cometer errores y te preocupa no estar a la altura de las expectativas. Pero también sabes que cada obstáculo es una oportunidad de aprendizaje.
+🌱 En tu vida personal, buscas equilibrio entre el crecimiento y el bienestar de quienes te rodean. Sabes que el éxito no solo se mide en logros profesionales, sino también en las relaciones que construyes y en la felicidad que cultivas día a día.
 
-Para acercarte a tu propósito, decides rodearte de personas que te inspiren y seguir aprendiendo constantemente. Cada paso que tomas hacia el conocimiento y la mejora personal te acerca a tus metas.
+💡 En el ámbito profesional, tu meta es clara: liderar proyectos tecnológicos innovadores y marcar la diferencia a través de soluciones efectivas. Sueñas con crear tecnología que impacte positivamente en la vida de las personas, haciendo que los procesos sean más eficientes y accesibles.
 
-Tampoco dejes de lado tu lado deportivo! Disfruta realizando lo que te gusta, sigue mejorando en el voleyball y manten tu rutina también en el gimnasio, es parte de ti y se que lo seguirá siendo. Esfuerzate y mejora, cumple los objetivos que tienes en mente y poder disfrutar de tus hobbies.
+🚧 Pero sé que algunas creencias te han limitado. A veces, dudas de tu capacidad, temes cometer errores y te preocupa no estar a la altura de las expectativas. Sin embargo, recuerda: cada obstáculo es una oportunidad de aprendizaje, y cada desafío superado es un paso más hacia tu mejor versión.
 
-Desde hoy, estas dispuesto a dejar el miedo, la verguenza y tomar una mentalidad de crecimiento y superación. Superarás cualquier desafío que se te presente y cumplirás tus sueños en el ámbito academico y deportivo.
+🔗 Para acercarte a tu propósito, decides rodearte de personas que te inspiren, aprender constantemente y salir de tu zona de confort. Cada línea de código, cada proyecto y cada esfuerzo te acercan más a tu meta.
 
--Arturo
+🏐 ¡No olvides tu lado deportivo! El voleyball y el gimnasio son parte de ti, de tu disciplina y de tu bienestar. Sigue mejorando, disfrutando y superando tus propios límites. Estos hábitos te ayudarán a mantener la mente clara y el cuerpo fuerte para enfrentar cualquier desafío.
+
+✨ Desde hoy, dejas atrás el miedo y la vergüenza. Abrazas una mentalidad de crecimiento y superación, sabiendo que el esfuerzo constante te llevará lejos. No importa qué tan grande sea el reto, tienes la capacidad para superarlo y hacer realidad tus sueños.
+
+Sigue adelante, Arturo. Tu futuro ya te está esperando.
+
+Con determinación,
+Arturo
 
 
+💬 Mi mapa interno
 
-Parte 2: Mi mapa interno
+🔥 Lo que me impulsa
+La curiosidad por crear soluciones tecnológicas innovadoras y automatizarlas para hacer la vida más fácil a las personas.
 
-🔥 Lo que me impulsa: la curiosidad por crear soluciones tecnológicas innovadoras y automitzarlas.
+⚠️ Lo que me detienegit status
 
-⚠️ Lo que me detiene: miedo a no ser suficiente y no tener la capacidad para cumplir mis objetivos.
+El miedo a no ser suficiente y a no tener la capacidad para cumplir mis objetivos.
 
-✨ Mi propósito inicial: aprender a desarrollar software para optimizar procesos que faciliten la vida de las personas.
+✨ Mi propósito inicial
+Aprender a desarrollar software que optimice procesos y facilite la vida de las personas.
